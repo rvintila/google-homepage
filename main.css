@@ -1,0 +1,69 @@
+
+#gimage{
+	
+	padding-top: 300px;
+	margin-right: 450px;
+	margin-left: 500px;
+	
+}
+
+#search_box {
+	
+	padding-top: 7px;
+	margin-top: 10px;
+	width: 500px;
+	margin-left: 400px;
+	height: 20px;
+
+}
+
+#header {
+	float: right;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.button1 {
+	display: block;
+	margin-left: 500px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.button2 {
+	display: block;
+	margin-left: 700px;
+	text-align: center;
+	margin-top: -20px;
+}
+
+.left_footer {
+	float: left;
+	margin-top: 450px;
+	margin-left: 10px;
+}
+
+.second_left_footer {
+	margin-left: 10px;
+}
+
+.third_left_footer {
+	margin-left: 10px;
+}
+
+.right_footer {
+	float: right;
+	margin-top: 450px;
+	margin-right: 10px;
+}
+
+.second_right_footer {
+	margin-left: 10px;
+}
